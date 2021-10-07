@@ -26,11 +26,13 @@ Deccan = Client(
     )
     
 START_TEXT = """
-Hello {}, 
-I am Google Translater bot.
+**✋Hello {}, 
+I am Google Translater bot
 
-Send me a text and I will translate it.
+</u></b>💭Send me a text and I will translate it.</u></b>
 
+**[ Tutorial ]**
+https://t.me/TheBotsWorldChannel/823**
 """
 HELP_TEXT = """
 Follow these steps..
@@ -54,8 +56,10 @@ ABOUT_TEXT = """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")
+        InlineKeyboardButton('📣Submit Your Bot📡 [FREE]', url=f"https://telegram.me/NarutoBotsProject")
         ],[
+	InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")],[
+		
         InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/TheBotsWorldChannel')
         ]]
     )
