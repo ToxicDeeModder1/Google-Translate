@@ -58,7 +58,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('📣Submit Your Bot📡 [FREE]', url=f"https://telegram.me/NarutoBotsProject")
         ],[
-	InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")],[
+
 		
         InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/TheBotsWorldChannel')
         ]]
