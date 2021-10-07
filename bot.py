@@ -31,7 +31,6 @@ I am Google Translater bot.
 
 Send me a text and I will translate it.
 
-This is a clone of @GTranslateDCBot.You can create a your own bot by watching a small tutorial 📺
 """
 HELP_TEXT = """
 Follow these steps..
@@ -55,23 +54,23 @@ ABOUT_TEXT = """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
+        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/TheBotsWorldChannel')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
+        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/TheBotsWorldChannel')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
+        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/ToxicDeeModderr")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/TheBotsWorldChannel')
         ]]
     )
 
